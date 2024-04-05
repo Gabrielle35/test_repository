@@ -14,7 +14,7 @@ To highlight some explanations you can use >
 To create a new folder, go in the Code section of your repository, do Add file, then Create new file. Write the name of the folder, followed by a / to indicate it's a folder. Then write the name of a file in it (ex: readme.md)
 
 All that is on GitHub is only on GitHub, not on your computer, on a general basis. 
-You can download a copy of it by doing Git clone.
+You can download a copy of it by doing Git clone (go in the Terminal app, go to the right directory, to git clone link).
 You can link it to your Rstudio or VScode, so that it is also on the computer, but this is more complex.
 
 More information here: https://github.com/DayeaPark/discussion-10
